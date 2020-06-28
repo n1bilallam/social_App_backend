@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "level-clone-204614",
+  "private_key_id": "5491b87f357dc4104ec8ec9d80a2984132739120",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwOShpbckVJIuY\navE5R+ZK+BrDAEZB2+sbfycLoQwsgfUja/AvjvSqlPIiZEGt4xBll4Uh/oq0Nd95\nhZLm7opmG8Fh3b9tSdXFt9HNrs9sQ1SUk7Nc9dSfit0bS/s1zy53bgUxtb0Lh9xo\nYzPMtrm9IgxeWQR7PTARZYp8h4zWGJ0btNzVY9IQepuPrMz04N/jRN8Xq0qRu8yC\ncshyd4/DSEiVCK4pC8w+LcwHuPmP8s9u8W67Eee3AtN+lRkBfNhB9+OzBOKp3vd4\na33LFO82uuIe30TNbRLt72NC7boa1V5lmCtmFxh3vHP7Fir+2vkzD/RMrIqzbefm\nHej3NYQ/AgMBAAECggEAJuNuMhnqopJOhgOvmQrvXML0sOy6FGWSNB6ywKO5GodR\nUBBNUEl1X8F/z6wdPGDb6Pdvh0lzVYJ//wLFoNWqUA829UBospb1KG1AzOmTV5pi\nK2mOzuhnFBAibBgv5zeB0xRB7C7leYpxTs35i+cVBRJi9V0imomttmEYlxOYtlQY\npZIn3KKNW1zaGQWBqgAqWlVsJqfS29d6VdM1DowWM6JRi/38ZFjfVGJqTdV8Q4eK\nH9Xx5E6+OiQHgNb6/aFBYP49TZ3nU6Z4r4N67yUnXeXfMBnTPWtnnM0sYqxi/VK7\npTs1lmc3EKLimHRAYuU0gVCcP+md3hHSJXjtl9AanQKBgQDyOW6BjdyEPsea/tt8\n7qBB6fjr22WyDVyWY3lFjv9weTsWZW7cTJf4+rhpxSjbVNk9P8fJByBULo9Ge84l\n3hJgwCUXf9U1WSIf/TLTYFquCTLkvHwILyjjsbmaUVMqSxBmkTY2Y0FQHjZpv7d5\npBWgI/Yn9XvvJVWfPwYX++173QKBgQC6Ps9fOLkkIokoaauNnWCWbKPac+XFe8Ej\nh5YmKp2bwik2pB3lwEkZ0uTTX59vwJhXr063x6tCN4blOdGL+anxOSrztgTnVpCZ\n4d3BKRB3hNP8v2EdkQF6WHSsULA+F2j6D4Gi2aF6FCeKEi63mbR7C2Gr+VeAIgt/\n+MpbFsa8ywKBgA1GqI/hPpzg8//CyDTov0/diw8iT0ibAuAbQ6JUXBvGCT8JADKC\n4DF9TG4/qCWdWOrKfCDAiz0R8DhkwL/ClC9JWL8Y+o6Z/AzUy9xaA55WUrvGuOWZ\n8BvKuemDW5ON2bBFdTs15XaGsWTKZTv9ilHkprE5+zj4SuEXizX1UObhAoGABowu\nvipAWATezYzpexENVDx9hjCM42R2ZcleffkBkXhB+qnKY0lfSIkhgkzaThN3R53i\nJpPecXWCSIy/0Sv1zYU0/Vxoz7k7XC2UnjXTXmBNE5Wm1GNEqghyEZzElWo9Ro1F\nAXSlOKV8vl3lRo8gyTKdPG6HpPmNbfJRKuKiGgECgYBsskhFiFNWFyXetEXGQmay\nBnowZQ/xOLdVYKZTh5dDbiywbWLpbiKUNX2+C5yHJrDqCf3XTYK1X/XogFmX/9Qq\nNq1g005TOCzj9nF1F9JGuHR6lo0Mq1SCO9c9eIcU7J2+WXZZbRpa/wGn/UaimgI9\n4GXVwuiWUj6nXYVNXSqPGw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatapp@level-clone-204614.iam.gserviceaccount.com",
+  "client_id": "100352427383063325175",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatapp%40level-clone-204614.iam.gserviceaccount.com"
+}
